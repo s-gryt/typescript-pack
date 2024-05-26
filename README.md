@@ -93,7 +93,7 @@ Lints Markdown files in your TypeScript projects.
 
 ## Feedback and Contributions
 
-We welcome feedback and contributions on [GitHub](https://github.com/s-gryt/typescript-pack/issues).
+Feel free to share your suggestions, feedback, and contributions on [GitHub](https://github.com/s-gryt/typescript-pack/issues).
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/s-gryt/typescript-pack/blob/main/LICENSE)
 ![GitHub Workflow Status](https://github.com/s-gryt/typescript-pack/actions/workflows/release.yml/badge.svg)
