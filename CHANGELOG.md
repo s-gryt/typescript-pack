@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/s-gryt/typescript-pack/compare/v1.0.0...v1.0.1) (2024-05-26)
+
+
+### Bug Fixes
+
+* **package.json:** update url, gallery color ([9648bc0](https://github.com/s-gryt/typescript-pack/commit/9648bc0908490337b4ffcb9024ba1af09edbf88b))
+
 # 1.0.0 (2024-05-26)
 
 
