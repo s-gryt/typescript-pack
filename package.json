@@ -7,13 +7,17 @@
   "icon": "icon.png",
   "license": "MIT",
   "publisher": "sgryt",
+  "homepage": "https://marketplace.visualstudio.com/items?itemName=sgryt.typescript-pack",
   "galleryBanner": {
-    "color": "#5c5858",
+    "color": "#008B8B",
     "theme": "dark"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/s-gryt/typescript-pack"
+    "url": "https://github.com/s-gryt/typescript-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/s-gryt/typescript-pack/issues"
   },
   "keywords": [
     "angular",
