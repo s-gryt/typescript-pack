@@ -1,0 +1,95 @@
+{
+  "version": "0.0.0",
+  "name": "typescript-pack",
+  "author": "Sergii Grytsaienko",
+  "description": "TypeScript dev toolkit for linting, formatting, imports, and code generation",
+  "displayName": "Typescript Pack",
+  "icon": "icon.png",
+  "license": "MIT",
+  "publisher": "sgryt",
+  "galleryBanner": {
+    "color": "#5c5858",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/s-gryt/typescript-pack"
+  },
+  "keywords": [
+    "angular",
+    "code metrics",
+    "code quality",
+    "code runner",
+    "docker",
+    "error translator",
+    "eslint",
+    "extension pack",
+    "formatting",
+    "import sorter",
+    "indentation",
+    "jest",
+    "linting",
+    "markdown linting",
+    "npm",
+    "path intellisense",
+    "prettier",
+    "profile",
+    "remote containers",
+    "rename tag",
+    "spell checker",
+    "ts",
+    "typescript",
+    "visual studio code",
+    "vscode"
+  ],
+  "scripts": {
+    "commit": "git cz",
+    "markdownlint": "markdownlint **/*.md",
+    "prepare": "husky",
+    "prettier:fix": "prettier --write .",
+    "prettier": "prettier --check ."
+  },
+  "extensionPack": [
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "formulahendry.code-runner",
+    "kisstkondoros.vscode-codemetrics",
+    "mattpocock.ts-error-translator",
+    "mike-co.import-sorter",
+    "ms-vscode.vscode-js-profile-flame",
+    "nrwl.angular-console",
+    "oderwat.indent-rainbow",
+    "orta.vscode-jest",
+    "quicktype.quicktype",
+    "sonarsource.sonarlint-vscode",
+    "streetsidesoftware.code-spell-checker",
+    "yoavbls.pretty-ts-errors",
+    "ms-azuretools.vscode-docker",
+    "ms-vscode-remote.remote-containers",
+    "formulahendry.auto-rename-tag",
+    "davidanson.vscode-markdownlint"
+  ],
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "devDependencies": {
+    "@commitlint/cli": "^19.3.0",
+    "@commitlint/config-conventional": "^19.2.2",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^9.0.11",
+    "lint-staged": "^15.2.5",
+    "markdownlint": "^0.34.0",
+    "markdownlint-cli": "^0.40.0",
+    "prettier": "^3.2.5",
+    "semantic-release": "^23.1.1",
+    "semantic-release-vsce": "^5.7.1"
+  }
+}
