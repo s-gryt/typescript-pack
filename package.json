@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "name": "typescript-pack",
   "author": "Sergii Grytsaienko",
   "description": "TypeScript dev toolkit for linting, formatting, imports, and code generation",

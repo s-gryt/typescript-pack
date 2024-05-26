@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/s-gryt/typescript-pack/compare/v1.0.2...v1.0.3) (2024-05-26)
+
+
+### Bug Fixes
+
+* **readme:** update readme with contribution details ([a18ff32](https://github.com/s-gryt/typescript-pack/commit/a18ff322d164817aa6b6d17ec00045475cb9a28a))
+
 ## [1.0.2](https://github.com/s-gryt/typescript-pack/compare/v1.0.1...v1.0.2) (2024-05-26)
 
 
