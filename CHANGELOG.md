@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/s-gryt/typescript-pack/compare/v1.0.3...v1.0.4) (2024-05-26)
+
+
+### Bug Fixes
+
+* **readme:** add installs badge ([509dced](https://github.com/s-gryt/typescript-pack/commit/509dced421128fe693c2ded41933d9837952225b))
+
 ## [1.0.3](https://github.com/s-gryt/typescript-pack/compare/v1.0.2...v1.0.3) (2024-05-26)
 
 
