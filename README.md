@@ -98,5 +98,6 @@ Feel free to share your suggestions, feedback, and contributions on [GitHub](htt
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/s-gryt/typescript-pack/blob/main/LICENSE)
 ![GitHub Workflow Status](https://github.com/s-gryt/typescript-pack/actions/workflows/release.yml/badge.svg)
 [![Downloads](https://img.shields.io/visual-studio-marketplace/d/sgryt.typescript-pack.svg)](https://marketplace.visualstudio.com/items?itemName=sgryt.typescript-pack)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/sgryt.typescript-pack.svg)](https://marketplace.visualstudio.com/items?itemName=sgryt.typescript-pack)
 ![Commitizen Friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)
 [![Semantic Release](https://img.shields.io/badge/release-semantic-blue.svg)](https://github.com/semantic-release/semantic-release)
