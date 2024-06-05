@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/s-gryt/typescript-pack/compare/v1.0.4...v1.1.0) (2024-06-05)
+
+
+### Features
+
+* **extensions:** add stylelint ([f41a025](https://github.com/s-gryt/typescript-pack/commit/f41a02586acaa9238b5f3ccebae97aac573b99a7))
+
 ## [1.0.4](https://github.com/s-gryt/typescript-pack/compare/v1.0.3...v1.0.4) (2024-05-26)
 
 
