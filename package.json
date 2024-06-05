@@ -56,12 +56,16 @@
   "extensionPack": [
     "christian-kohler.npm-intellisense",
     "christian-kohler.path-intellisense",
+    "davidanson.vscode-markdownlint",
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
     "formulahendry.code-runner",
     "kisstkondoros.vscode-codemetrics",
     "mattpocock.ts-error-translator",
     "mike-co.import-sorter",
+    "ms-azuretools.vscode-docker",
+    "ms-vscode-remote.remote-containers",
     "ms-vscode.vscode-js-profile-flame",
     "nrwl.angular-console",
     "oderwat.indent-rainbow",
@@ -69,11 +73,8 @@
     "quicktype.quicktype",
     "sonarsource.sonarlint-vscode",
     "streetsidesoftware.code-spell-checker",
-    "yoavbls.pretty-ts-errors",
-    "ms-azuretools.vscode-docker",
-    "ms-vscode-remote.remote-containers",
-    "formulahendry.auto-rename-tag",
-    "davidanson.vscode-markdownlint"
+    "stylelint.vscode-stylelint",
+    "yoavbls.pretty-ts-errors"
   ],
   "engines": {
     "vscode": "^1.86.0"

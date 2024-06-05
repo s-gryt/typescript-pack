@@ -12,6 +12,10 @@ Autocompletes npm modules in import statements.
 
 Autocompletes filenames in import statements and require() calls.
 
+### [MarkdownLint](https://marketplace.visualstudio.com/items?itemName=davidanson.vscode-markdownlint)
+
+Lints Markdown files in your TypeScript projects.
+
 ### [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 Identifies and fixes errors and enforces coding standards in your TypeScript code.
@@ -19,6 +23,10 @@ Identifies and fixes errors and enforces coding standards in your TypeScript cod
 ### [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 Formats your TypeScript code automatically according to configured rules.
+
+### [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+
+Automatically renames paired HTML/XML tags in TypeScript files.
 
 ### [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 
@@ -35,6 +43,14 @@ Translates TypeScript error messages into more understandable language.
 ### [Import Sorter](https://marketplace.visualstudio.com/items?itemName=mike-co.import-sorter)
 
 Automatically sorts and organizes import statements in your TypeScript files.
+
+### [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+
+Provides Docker integration for Visual Studio Code.
+
+### [Remote Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+
+Develop your TypeScript code inside Docker containers.
 
 ### [JS Profile Flame](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-js-profile-flame)
 
@@ -64,25 +80,13 @@ Detects and fixes code quality issues in your TypeScript code.
 
 Checks spelling in your TypeScript code and comments.
 
+### [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
+
+Helps you avoid errors and enforce conventions in your stylesheets.
+
 ### [Pretty TS Errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
 
 Prettifies TypeScript error messages for better readability.
-
-### [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
-
-Provides Docker integration for Visual Studio Code.
-
-### [Remote Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
-
-Develop your TypeScript code inside Docker containers.
-
-### [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-
-Automatically renames paired HTML/XML tags in TypeScript files.
-
-### [MarkdownLint](https://marketplace.visualstudio.com/items?itemName=davidanson.vscode-markdownlint)
-
-Lints Markdown files in your TypeScript projects.
 
 ## Installation
 
