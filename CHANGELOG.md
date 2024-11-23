@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/s-gryt/typescript-pack/compare/v1.1.0...v1.2.0) (2024-11-23)
+
+
+### Features
+
+* **extension:** add error gutters ([b4fafdf](https://github.com/s-gryt/typescript-pack/commit/b4fafdfb615a91b5e1c4dc4d4414fe373c7eef28))
+
 # [1.1.0](https://github.com/s-gryt/typescript-pack/compare/v1.0.4...v1.1.0) (2024-06-05)
 
 
