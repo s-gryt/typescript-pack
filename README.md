@@ -32,6 +32,10 @@ Automatically renames paired HTML/XML tags in TypeScript files.
 
 Runs your TypeScript code directly within Visual Studio Code.
 
+### [Error Gutters](https://marketplace.visualstudio.com/items?itemName=igorsbitnev.error-gutters)
+
+Quickly identify and navigate to errors in your code with gutter indicators.
+
 ### [Code Metrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics)
 
 Analyzes and visualizes code metrics for your TypeScript projects.
